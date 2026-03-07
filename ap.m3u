@@ -1,4 +1,24 @@
 #EXTM3U
+
+#EXTINF:-1,BEIN SPORTS 1 Atom
+#EXTVLCOPT:http-referrer=https://www.atomsportv490.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://white-sky-0cce.geminifast.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="NexaTV",TR:beIN Sport 1 HD nEXA
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1,Bein Sports 17/24 selcuk
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://dga1op10s1u3leo.7af32068d38fdf.click/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1,Bein Sports 1 rec
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://1.rec1387.workers.dev/static/bs11.m3u8?&ad=random?token=OdBu9pWQRDmuEXA1MbnU_w&tms=1772208508
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tabiitv.png",TABİİ TV
 https://b.dalinpepe1.workers.dev/tabiitv
 
