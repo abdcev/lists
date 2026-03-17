@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tabiitv.png",TABİİ TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/tabiitv.png",TABİİ TV
 https://b.xaomi.workers.dev/tabiitv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/trt1.png",TRT 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/trt4k.png",TRT 4K
 https://b.xaomi.workers.dev/trt4k
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/trt1.png",TRT 1
