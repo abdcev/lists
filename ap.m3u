@@ -83,6 +83,9 @@ https://b.xaomi.workers.dev/360tv
 #EXTINF:-1 tvg-logo="",Semerkand TV
 https://b.xaomi.workers.dev/semerkandtv
 
+#EXTINF:-1 tvg-logo="",Lalegül TV
+https://b.xaomi.workers.dev/lalegultv
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/ahaber.png",A HABER
 https://b.xaomi.workers.dev/ahaber
 
