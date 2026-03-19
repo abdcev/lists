@@ -170,9 +170,6 @@ https://a.xaomi.workers.dev/?id=tivibu-spor-2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor3.png",Tivibu Spor 3
 https://a.xaomi.workers.dev/?id=tivibu-spor-3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/tabii.png",TABİİ SPOR
-https://b.xaomi.workers.dev/tabiispor
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/qazaqstan.png",Qazaqstan TV
 https://b.xaomi.workers.dev/qazaqstantv
 
@@ -185,14 +182,14 @@ https://b.xaomi.workers.dev/alsunnahalnabawiyahtv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/alquranalkareem.png",Al Quran Al Kareem TV
 https://b.xaomi.workers.dev/alquranalkareemtv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/kralpop.png",Kral Pop TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/kralpop.png",Kral Pop TV
 https://b.xaomi.workers.dev/kralpop
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/dreamturk.png",Dream Türk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/dreamturk.png",Dream Türk
 https://b.xaomi.workers.dev/dreamturk
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TURK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/powerturk.png",POWER TURK
 https://b.xaomi.workers.dev/powerturk
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/nr1turk.png",NUMBER ONE TÜRK
 https://b.xaomi.workers.dev/numberoneturk
