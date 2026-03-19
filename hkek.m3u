@@ -2,8 +2,12 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/cctv4.png",CCTV 4
 https://b.xaomi.workers.dev/cctv4
 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tabiitv.png",TABİİ TV
 https://b.xaomi.workers.dev/tabiitv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/trt4k.png",TRT 4K
+https://b.xaomi.workers.dev/trt4k
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/trt1.png",TRT 1
 https://b.xaomi.workers.dev/trt1
@@ -62,17 +66,38 @@ https://b.xaomi.workers.dev/dmax
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinematv.png",Sinema TV
 https://b.xaomi.workers.dev/sinematv
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinema2.png",Sinema 2
+https://b.xaomi.workers.dev/sinema2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinemaaile.png",Sinema TV Aile
 https://b.xaomi.workers.dev/sinemaaile
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinemaaksiyon.png",Sinema TV Aksiyon
 https://b.xaomi.workers.dev/sinemaaksiyon
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinemayerli.png",Sinema TV Yerli
-https://b.xaomi.workers.dev/sinemayerli
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinema1001.png",Sinema TV 1001
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinema1001.png",Sinema 1001
 https://b.xaomi.workers.dev/sinema1001
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinema1002.png",Sinema 1002
+https://b.xaomi.workers.dev/sinema1002
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/fx.png",FX
+https://b.xaomi.workers.dev/fx
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinmoviesaction.png",beIN Movies Action
+https://b.xaomi.workers.dev/beinmoviesaction
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinmoviesfamily.png", beIN Movies Family
+https://b.xaomi.workers.dev/beinmoviesfamily
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinmoviesstars.png", beIN Movies Stars
+https://b.xaomi.workers.dev/beinmoviesstars
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinboxoffice1.png", beIN Box Office 1
+https://b.xaomi.workers.dev/beinoffice1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinboxoffice2.png", beIN Box Office 2
+https://b.xaomi.workers.dev/beinoffice2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/cartoonnetwork.png",Cartoon Network
 https://b.xaomi.workers.dev/cartoonnetwork
@@ -88,6 +113,9 @@ https://b.xaomi.workers.dev/nationalgeographic
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/nationalgeographicwild.png", National Geographic Wild
 https://b.xaomi.workers.dev/nationalgeographicwild
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/bbcearth.png",BBC Earth
+https://b.xaomi.workers.dev/bbcearth
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tv2.png",TEVE2
 https://b.xaomi.workers.dev/teve2
@@ -137,18 +165,6 @@ https://a.xaomi.workers.dev/?id=bein-sports-3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinsports3.png",Bein Sports 3 YEDEK
 https://sc.xaomi.workers.dev/play/bein-3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinsportsmax1.png",Bein Sports Max
-https://a.xaomi.workers.dev/?id=bein-sports-max-1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinsportsmax2.png",Bein Sports Max 2
-https://a.xaomi.workers.dev/?id=bein-sports-max-2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/ssport.png",S Sport
-https://a.xaomi.workers.dev/?id=s-sport
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/ssport2.png",S Sport 2
-https://a.xaomi.workers.dev/?id=s-sport-2
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor1.png",Tivibu Spor 1
 https://a.xaomi.workers.dev/?id=tivibu-spor-1
 
@@ -158,74 +174,14 @@ https://a.xaomi.workers.dev/?id=tivibu-spor-2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor3.png",Tivibu Spor 3
 https://a.xaomi.workers.dev/?id=tivibu-spor-3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/tabii.png",TABİİ SPOR
-https://b.xaomi.workers.dev/tabiispor
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/tabii.png",TABİİ SPOR 1
-https://b.xaomi.workers.dev/tabiispor1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/tabii.png",TABİİ SPOR 2
-https://b.xaomi.workers.dev/tabiispor2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/tabii.png",TABİİ SPOR 3
-https://b.xaomi.workers.dev/tabiispor3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/eurosport1.png",Eurosport 1
-https://b.xaomi.workers.dev/eurosport1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/eurosport2.png",Eurosport 2
-https://b.xaomi.workers.dev/eurosport2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/qazaqstan.png",Qazaqstan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/qazaqstan.png",Qazaqstan TV
 https://b.xaomi.workers.dev/qazaqstantv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/abaitv.png",Abai TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/abaitv.png",ABAİ TV
 https://b.xaomi.workers.dev/abaitv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/24kz.png",24KZ
-https://b.xaomi.workers.dev/24kz
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/atyray.png",Atyray
-https://b.xaomi.workers.dev/atyrautv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/jambyl.png",Jambyl
-https://b.xaomi.workers.dev/taraztv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/kokshe.png",Kokshe
-https://b.xaomi.workers.dev/kokshetautv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/mangystay.png",Mangystay
-https://b.xaomi.workers.dev/mangystautv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/qostanai.png",Qostanai
-https://b.xaomi.workers.dev/kostanaytv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/qyzyljar.png",Qyzyljar
-https://b.xaomi.workers.dev/petropavltv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/qyzylorda.png",Qyzylorda
-https://b.xaomi.workers.dev/kyzylordatv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/saryarqa.png",Saryarqa
-https://b.xaomi.workers.dev/karagandytv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/semei.png",Semei
-https://b.xaomi.workers.dev/semeytv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/alsunnahalnabawiya.png",Al Sunnah Al Nabawiyah TV
 https://b.xaomi.workers.dev/alsunnahalnabawiyahtv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/alquranalkareem.png",Al Quran Al Kareem TV
 https://b.xaomi.workers.dev/alquranalkareemtv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/kralpop.png",Kral Pop TV
-https://b.xaomi.workers.dev/kralpop
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/dreamturk.png",Dream Türk
-https://b.xaomi.workers.dev/dreamturk
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TURK
-https://b.xaomi.workers.dev/powerturk
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
-https://b.xaomi.workers.dev/numberoneturk
