@@ -161,6 +161,9 @@ https://sc.xaomi.workers.dev/play/bein-3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/qazaqstan.png",Qazaqstan TV
 https://b.xaomi.workers.dev/qazaqstantv
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/jibekjoly.png",Jibek Joly
+https://b.xaomi.workers.dev/jibekjoly
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/abaitv.png",ABAİ TV
 https://b.xaomi.workers.dev/abaitv
 
