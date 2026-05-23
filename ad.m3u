@@ -42,13 +42,16 @@ https://b.xaomi.workers.dev/startv
 https://b.xaomi.workers.dev/atv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/atv.png",ATV (Yedek 1)
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+https://b.xaomi.workers.dev/atv2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/atv.png",ATV (Yedek 2)
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+https://b.xaomi.workers.dev/atv3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/atv.png",ATV (Yedek 3)
-https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
+https://b.xaomi.workers.dev/atv4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/atv.png",ATV (Yedek 4)
+https://b.xaomi.workers.dev/atv5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/now.png",NOW
 https://b.xaomi.workers.dev/now
