@@ -176,15 +176,6 @@ https://a.xaomi.workers.dev/?id=bein-sports-3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinsports3.png",Bein Sports 3 YEDEK
 https://sc.xaomi.workers.dev/play/bein-3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor1.png",Tivibu Spor 1
-https://a.xaomi.workers.dev/?id=tivibu-spor-1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor2.png",Tivibu Spor 2
-https://a.xaomi.workers.dev/?id=tivibu-spor-2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor3.png",Tivibu Spor 3
-https://a.xaomi.workers.dev/?id=tivibu-spor-3
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/qazaqstan.png",Qazaqstan TV
 https://b.xaomi.workers.dev/qazaqstantv
 
