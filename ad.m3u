@@ -17,6 +17,12 @@ https://b.xaomi.workers.dev/trt2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/trtbelgesel.png",TRT BELGESEL
 https://b.xaomi.workers.dev/trtbelgesel
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/nationalgeographic.png", National Geographic
+https://b.xaomi.workers.dev/nationalgeographic
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/nationalgeographicwild.png", National Geographic Wild
+https://b.xaomi.workers.dev/nationalgeographicwild
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/trtavaz.png",TRT AVAZ
 https://b.xaomi.workers.dev/trtavaz
 
@@ -116,15 +122,6 @@ https://b.xaomi.workers.dev/trtcocuk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tv4.png",TV 4
 https://b.xaomi.workers.dev/tv4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/nationalgeographic.png", National Geographic
-https://b.xaomi.workers.dev/nationalgeographic
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/nationalgeographicwild.png", National Geographic Wild
-https://b.xaomi.workers.dev/nationalgeographicwild
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/bbcearth.png",BBC Earth
-https://b.xaomi.workers.dev/bbcearth
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tv2.png",TEVE2
 https://b.xaomi.workers.dev/teve2
 
@@ -172,15 +169,6 @@ https://a.xaomi.workers.dev/?id=bein-sports-3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinsports3.png",Bein Sports 3 YEDEK
 https://sc.xaomi.workers.dev/play/bein-3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor1.png",Tivibu Spor 1
-https://a.xaomi.workers.dev/?id=tivibu-spor-1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor2.png",Tivibu Spor 2
-https://a.xaomi.workers.dev/?id=tivibu-spor-2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor3.png",Tivibu Spor 3
-https://a.xaomi.workers.dev/?id=tivibu-spor-3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/qazaqstan.png",Qazaqstan TV
 https://b.xaomi.workers.dev/qazaqstantv
