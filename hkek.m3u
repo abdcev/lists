@@ -87,7 +87,7 @@ https://b.xaomi.workers.dev/sinema1001
 #EXTINF:-1 tvg-id="SİNEMA 1002 HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinema1002.png",Sinema 1002
 https://b.xaomi.workers.dev/sinema1002
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/fx.png",FX
+#EXTINF:-1 tvg-id="FX HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/fx.png",FX
 https://b.xaomi.workers.dev/fx
 
 #EXTINF:-1 tvg-id="SİNEMA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinematv.png",Sinema TV
