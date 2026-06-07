@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.open-epg.com/files/turkey3.xml"
+
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tabiitv.png",TABİİ TV
 https://b.xaomi.workers.dev/tabiitv
 
