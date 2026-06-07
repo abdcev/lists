@@ -44,17 +44,8 @@ https://b.xaomi.workers.dev/startv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/atv.png",ATV
 https://b.xaomi.workers.dev/atv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/atv.png",ATV (Yedek 1)
-https://b.xaomi.workers.dev/atv2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/atv.png",ATV (Yedek 2)
-https://b.xaomi.workers.dev/atv3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/atv.png",ATV (Yedek 3)
-https://b.xaomi.workers.dev/atv4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/atv.png",ATV (Yedek 4)
-https://b.xaomi.workers.dev/atv5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/atv.png",ATV (Yedek)
+https://b.xaomi.workers.dev/atvyedek
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/now.png",NOW
 https://b.xaomi.workers.dev/now
@@ -119,15 +110,6 @@ https://b.xaomi.workers.dev/trtcocuk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tv4.png",TV 4
 https://b.xaomi.workers.dev/tv4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/nationalgeographic.png", National Geographic
-https://b.xaomi.workers.dev/nationalgeographic
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/nationalgeographicwild.png", National Geographic Wild
-https://b.xaomi.workers.dev/nationalgeographicwild
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/bbcearth.png",BBC Earth
-https://b.xaomi.workers.dev/bbcearth
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tv2.png",TEVE2
 https://b.xaomi.workers.dev/teve2
 
@@ -175,15 +157,6 @@ https://a.xaomi.workers.dev/?id=bein-sports-3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinsports3.png",Bein Sports 3 YEDEK
 https://sc.xaomi.workers.dev/play/bein-3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor1.png",Tivibu Spor 1
-https://a.xaomi.workers.dev/?id=tivibu-spor-1
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor2.png",Tivibu Spor 2
-https://a.xaomi.workers.dev/?id=tivibu-spor-2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tivibuspor3.png",Tivibu Spor 3
-https://a.xaomi.workers.dev/?id=tivibu-spor-3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/qazaqstan.png",Qazaqstan TV
 https://b.xaomi.workers.dev/qazaqstantv
