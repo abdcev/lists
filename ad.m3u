@@ -60,10 +60,10 @@ https://b.xaomi.workers.dev/beyaztv
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/tlc.png",TLC
 https://b.xaomi.workers.dev/tlc
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/dmax.png",DMAX
+#EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/dmax.png",DMAX
 https://b.xaomi.workers.dev/dmax
 
-#EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinematv.png",Sinema TV
+#EXTINF:-1 tvg-id="SİNEMA TV HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinematv.png",Sinema TV
 https://b.xaomi.workers.dev/sinematv
 
 #EXTINF:-1 tvg-id="SİNEMA TV 2 HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinema2.png",Sinema 2
@@ -75,13 +75,13 @@ https://b.xaomi.workers.dev/sinemaaile
 #EXTINF:-1 tvg-id="SİNEMA TV AKSİYON HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinemaaksiyon.png",Sinema TV Aksiyon
 https://b.xaomi.workers.dev/sinemaaksiyon
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinema1001.png",Sinema 1001
+#EXTINF:-1 tvg-id="SİNEMA TV 1001 HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinema1001.png",Sinema 1001
 https://b.xaomi.workers.dev/sinema1001
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinema1002.png",Sinema 1002
+#EXTINF:-1 tvg-id="SİNEMA 1002 HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/sinema1002.png",Sinema 1002
 https://b.xaomi.workers.dev/sinema1002
 
-#EXTINF:-1 tvg-id="SİNEMA TV 1001 HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/fx.png",FX
+#EXTINF:-1 tvg-id="FX HD.tr" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/fx.png",FX
 https://b.xaomi.workers.dev/fx
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/abdcev/lists/refs/heads/main/image/beinmoviesaction.png",beIN Movies Action
